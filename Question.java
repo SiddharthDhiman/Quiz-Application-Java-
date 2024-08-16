@@ -1,4 +1,4 @@
-package org.projectgurukul;
+package org.QuizApp;
 public class Question {
     
     private String question;
